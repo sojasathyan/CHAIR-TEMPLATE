@@ -1,0 +1,155 @@
+/*Athour : Soja */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	/* border: 2px solid; */
+}
+.contain {
+	padding: auto;
+	margin: auto;
+	width: 50%;
+	/* border: 2px solid orangered; */
+}
+.paragraph {
+	display: flex;
+	justify-content: space-between;
+}
+.para {
+	/* border: 3px solid; */
+	padding-top: 80px;
+	width: 320px;
+}
+.para a {
+	/* border: 2px solid; */
+	background-color: #1f8a70;
+	color: white;
+	text-decoration: none;
+	border-radius: 30px;
+	padding: 5px 15px;
+}
+
+.imgchair {
+	margin-top: 30px;
+	/* width: 300px; */
+}
+.imgchair img {
+	width: 300px;
+}
+.para h1 {
+	margin-bottom: 20px;
+}
+.para p {
+	margin-bottom: 25px;
+}
+.word {
+	/* border: 2px solid; */
+	margin-top: 35px;
+	margin-bottom: 35px;
+}
+.seem {
+	display: flex;
+
+	gap: 90px;
+}
+.seen {
+	width: 200px;
+	/* border: 2px solid; */
+}
+.seen h4 {
+	margin-bottom: 20px;
+}
+.img2 {
+	display: flex;
+	gap: 30px;
+	background-color: #1f8a70;
+	border-radius: 20px;
+	margin-top: 30px;
+}
+.girl img {
+	width: 200px;
+	margin-top: 30px;
+	margin-left: 20px;
+}
+.girlpara {
+	width: 400px;
+	/* border: 2px solid; */
+	margin-top: 15px;
+	color: white;
+	padding: 20px;
+}
+
+.girlpara p {
+	padding: 10px;
+}
+
+.three {
+	display: flex;
+	/* gap: 20px; */
+	justify-content: space-between;
+}
+.three img {
+	width: 170px;
+}
+.value {
+	display: flex;
+	gap: 30px;
+}
+.value1 {
+	display: flex;
+	gap: 5px;
+}
+.our {
+	margin-top: 70px;
+	margin-bottom: 30px;
+}
+
+.three h4 {
+	margin-top: 20px;
+}
+
+.atag a {
+	background-color: #1f8a70;
+	color: white;
+	text-decoration: none;
+	border-radius: 30px;
+	padding: 5px 10px;
+}
+.firstimg {
+	background-color: white;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	border-radius: 9px;
+	width: 200px;
+	/* border: 2px solid orangered; */
+}
+.firstimg img {
+	width: 100%;
+	border-top-left-radius: 9px;
+	border-top-right-radius: 9px;
+	padding: 15px;
+}
+.seen img {
+	width: 20px;
+	margin-bottom: 20px;
+}
+.value1 img {
+	width: 20px;
+	height: 20px;
+	/* line-height: 40px; */
+}
+.value1 {
+	margin-bottom: 20px;
+}
+.laid {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.imgwidth {
+	/* border: 2px solid blue; */
+	padding: 15px;
+}
+.value1 svg {
+	stroke: #1f8a70;
+	width: 20px;
+	height: 20px;
+}
